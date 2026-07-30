@@ -1,4 +1,4 @@
-# Arsenal de Automação, Sistemas e Segurança 
+# Automação, Sistemas e Segurança 
 
 Este repositório reúne um conjunto de ferramentas e utilitários desenvolvidos de forma autónoma em **Python**. O objetivo principal destes projetos é aplicar na prática, demonstrando aptidão em automação de infraestruturas, administração de sistemas operativos e fundamentos de cibersegurança.
 
